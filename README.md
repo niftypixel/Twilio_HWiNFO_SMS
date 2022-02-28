@@ -12,7 +12,7 @@
 
 ## Optional variables
 
-- You can pass the %s and %v arguments in HWiNFO as needed within quotes - Example "%s" "%v"
+- You can pass the %s and %v arguments in HWiNFO as needed within quotes - Example "%s current temp: %v"
  
 ## Python Dependencies
 
