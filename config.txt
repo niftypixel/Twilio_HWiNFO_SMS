@@ -1,0 +1,6 @@
+[Config]
+twilio_number = +12223334444
+twilio_sid = YOURSID
+twilio_token = YOURTOKEN
+your_number = +12223334444
+your_message = GPU temp too high
